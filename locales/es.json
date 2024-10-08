@@ -1,0 +1,16 @@
+{
+  "welcome": "Bienvenido a nuestra tienda inspirada en StockX",
+  "featured": "Productos Destacados",
+  "products": "Productos",
+  "allProducts": "Todos los Productos",
+  "addToCart": "Añadir al Carrito",
+  "currentPrice": "Precio Actual",
+  "makeBid": "Hacer una Oferta",
+  "enterBid": "Ingrese el monto de la oferta",
+  "bid": "Ofertar",
+  "buyNow": "Comprar Ahora",
+  "bidPlaced": "Oferta realizada con éxito",
+  "invalidBid": "Por favor, ingrese un monto de oferta válido",
+  "purchaseConfirmation": "Has comprado",
+  "for": "por"
+}

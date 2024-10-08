@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome to our StockX-inspired store",
+  "featured": "Featured Products",
+  "products": "Products",
+  "allProducts": "All Products",
+  "addToCart": "Add to Cart",
+  "currentPrice": "Current Price",
+  "makeBid": "Make a Bid",
+  "enterBid": "Enter bid amount",
+  "bid": "Place Bid",
+  "buyNow": "Buy Now",
+  "bidPlaced": "Bid placed successfully",
+  "invalidBid": "Please enter a valid bid amount",
+  "purchaseConfirmation": "You have purchased",
+  "for": "for"
+}
